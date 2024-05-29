@@ -1,4 +1,4 @@
-It is a simple ToDo App. Here is the - [DEMO LINK](https://math8585.github.io/react_todo-app_api/).
+It is a simple ToDo App. Here is the - [DEMO LINK](https://math8585.github.io/react_todo_app_api/).
 
 Available Features:
 
