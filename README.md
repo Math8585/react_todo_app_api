@@ -1,6 +1,8 @@
+# Todo App with API
+
 It is a simple ToDo App. Here is the - [DEMO LINK](https://math8585.github.io/react_todo_app_api/).
 
-Available Features:
+# Available Features:
 
 - create todo items;
 - change todo's status as comleted or active;
@@ -10,7 +12,7 @@ Available Features:
 - remove all completed items from the list, by clicking on the Clear completed button;
 - change todo's title by double click on choosen todo;
 
-Technologies that were used:
+# Technologies that were used:
 
 - React
 - TypeScript
