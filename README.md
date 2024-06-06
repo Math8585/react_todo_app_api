@@ -19,3 +19,23 @@ It is a simple ToDo App. Here is the - [DEMO LINK](https://math8585.github.io/re
 - JavaScript;
 - Rest API;
 - Sass with BEM methodology;
+
+# Getting Started
+To open this project locally:
+
+- Clone the repository:
+```
+git clone https://github.com/Math8585/react_todo_app_api.git
+```
+- Navigate to the project directory in your terminal:
+```
+cd react_todo_app_api
+```
+- Install the dependencies:
+```
+npm install
+```
+- Start the project:
+```
+npm start
+```
